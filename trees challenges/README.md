@@ -1,7 +1,6 @@
-# Tree Algorithms
+# Tree & Combinatorial Algorithms
 
-This folder will house tree data structures and traversal challenges.
+This folder contains implementations of combinatorics, state-space trees, and tree structures studied during the freeCodeCamp curriculum.
 
-## Upcoming
-* Binary Search Trees (BST)
-* Tree Traversal Strategies
+## Concepts & Algorithms Covered
+* **Generate Parentheses:** Uses a state-space tree layout generated via Breadth-First Search (BFS) tracking opens/closes counters to form all valid configurations of $n$ pairs of parentheses.
